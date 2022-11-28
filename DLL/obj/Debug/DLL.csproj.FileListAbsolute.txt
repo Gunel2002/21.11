@@ -1,0 +1,9 @@
+C:\Users\GUNEL\source\repos\DLL\DLL\bin\Debug\DLL.exe.config
+C:\Users\GUNEL\source\repos\DLL\DLL\bin\Debug\DLL.exe
+C:\Users\GUNEL\source\repos\DLL\DLL\bin\Debug\DLL.pdb
+C:\Users\GUNEL\source\repos\DLL\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\GUNEL\source\repos\DLL\DLL\obj\Debug\DLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUNEL\source\repos\DLL\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\GUNEL\source\repos\DLL\DLL\obj\Debug\DLL.exe
+C:\Users\GUNEL\source\repos\DLL\DLL\obj\Debug\DLL.pdb
+C:\Users\GUNEL\source\repos\DLL\DLL\obj\Debug\DLL.csproj.CopyComplete
